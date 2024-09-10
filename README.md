@@ -34,3 +34,17 @@ Private AI chatbot Chrome extension.
    ```
 
 6. Load the content of dist/chrome
+
+## Docs
+
+##### Summarizing web content
+
+![](/docs/Screenshot%202024-09-10%20225527.png)
+
+#### Extracting data from web
+
+![](/docs/Screenshot%202024-09-10%20230209.png)
+
+#### Video
+
+[![Docs]](/docs/2024-09-10%2023-22-22.mp4)
